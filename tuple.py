@@ -1,0 +1,5 @@
+names=("Tamjid","Tayyaba","ashrafi")
+print(len(names))
+print(names[2])
+print(names.count('ashrafi'))
+print(names.index('ashrafi'))
